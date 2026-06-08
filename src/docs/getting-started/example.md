@@ -31,7 +31,7 @@ want to wait for this element to finish animating whenever a new page is loaded.
 </main>
 ```
 
-> **Note** The container selector and animation selector are defaults and can be adjusted in the [options](/options/).
+> [!NOTE] The container selector and animation selector are defaults and can be adjusted in the [options](/options/).
 
 ## 2. Animation styles
 

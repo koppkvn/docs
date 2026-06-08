@@ -102,7 +102,7 @@ to reflect language changes.
 }
 ```
 
-> **Note** Only elements **inside** of the `body` tag are supported.
+> [!NOTE] Only elements **inside** of the `body` tag are supported.
 
 ## cache
 
@@ -255,6 +255,6 @@ tag during those animations. Defaults to `false`.
 }
 ```
 
-> **Warning** This option was added due to popular request. However, it should be used with
+> [!WARNING] This option was added due to popular request. However, it should be used with
 > caution. When activated, swup has to disable native [browser scroll restoration](https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration).
 > Scroll positions will not be preserved between visits and need to be implemented by you.

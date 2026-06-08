@@ -89,7 +89,7 @@ swup.hooks.on('visit:start', async () => {
 });
 ```
 
-> **Note** Some hooks are executed without awaiting Promises if their handler needs
+> [!NOTE] Some hooks are executed without awaiting Promises if their handler needs
 to prevent a DOM event's default action: `link:click` and `history:popstate`.
 
 ## Removing handlers
