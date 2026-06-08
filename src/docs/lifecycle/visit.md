@@ -72,6 +72,8 @@ This is an example visit object for a navigation from `/home` to `/about#anchor`
 }
 ```
 
+> [!TIP] Browse the [source code](https://github.com/swup/swup/blob/main/src/modules/Visit.ts) to see all possible visit properties.
+
 ## Use cases
 
 What can we do by manipulating the visit object? A few examples are listed below.
